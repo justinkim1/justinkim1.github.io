@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Coding Bootcamp Student
 header-img: img/home-bg.png
 email: justin-kim1@hotmail.com
 copyright_name: justinkim1
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Currently Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  justinkim1
